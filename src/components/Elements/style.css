@@ -1,0 +1,6 @@
+.img_block img {
+  background-size: cover;
+  height: 100px;
+  width: 150px;
+  border: black solid 1px;
+}
